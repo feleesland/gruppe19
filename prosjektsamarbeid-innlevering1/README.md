@@ -1,5 +1,13 @@
 # IS-118 Prosjektsamarbeid
 
+## Arbeidsfordeling:
+
+1 - Nikolai
+2 - Wazin
+3 & 4 - Dawid / Filip
+5 - Even
+6 - Daniel
+
 1. **Strategi for rekruttering og sammensetning:** *Anbefalinger for å bemanne prosjektgruppen, med vekt på å balansere behovet for mangfold (ulike teamroller som produksjon, administrasjon, integrasjon, entreprenørskap) med behovet for en viss grad av sosial og demografisk likhet for å fremme tidlig tillit. Dere må forklare hvorfor dette er viktige momenter å ta inn i planleggingen tidlig.*
 
 
