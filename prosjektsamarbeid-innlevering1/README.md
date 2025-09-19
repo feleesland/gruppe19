@@ -29,4 +29,3 @@
 
 
 6. **Sikring av god kommunikasjon:** *Råd og anbefalinger som prosjektlederen kan benytte for å sikre en god og e^ektiv kommunikasjon i teamet.*
-
