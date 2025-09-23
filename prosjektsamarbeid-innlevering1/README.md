@@ -23,7 +23,7 @@
 4. **Proaktive mekanismer for konflikthåndtering:** *Forslag til konkrete ordninger og prosedyrer for å identifisere, drøfte og avgjøre uenigheter tidlig i prosjektet, for å unngå eskalering.*
 
 DARC000G: skriver her
-
+Det var en dag jeg ble født.
 
 5. **Håndtering av tidspress og "planleggingsfellen":** *Råd til prosjektlederen om hvordan man kan motvirke det sterke handlingspresset i tidlig fase og balansere behovet for en klar plan med fleksibilitet.*
 
