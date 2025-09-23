@@ -22,11 +22,31 @@
 
 4. **Proaktive mekanismer for konflikthåndtering:** *Forslag til konkrete ordninger og prosedyrer for å identifisere, drøfte og avgjøre uenigheter tidlig i prosjektet, for å unngå eskalering.*
 
-DARC000G: skriver her
-Det var en dag jeg ble født.
+DARC000G/dawid:
+
+Identifisere uenigheter tidlig:
+
+
+Drøfte uenigheter:
+
+
+Avgjøre uenigheter:
+
+
+Forebygning gjennom tidsperspektiv:
+
+
 
 5. **Håndtering av tidspress og "planleggingsfellen":** *Råd til prosjektlederen om hvordan man kan motvirke det sterke handlingspresset i tidlig fase og balansere behovet for en klar plan med fleksibilitet.*
 
 
 
 6. **Sikring av god kommunikasjon:** *Råd og anbefalinger som prosjektlederen kan benytte for å sikre en god og e^ektiv kommunikasjon i teamet.*
+
+
+
+
+
+
+Litteraturliste: 
+Jacobsen, D. I. (2016). Engangsorganisasjonen. fagbokforlaget.
