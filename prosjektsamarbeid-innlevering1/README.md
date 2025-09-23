@@ -37,6 +37,7 @@ Forebygning gjennom tidsperspektiv:
 
 
 
+
 5. **Håndtering av tidspress og "planleggingsfellen":** *Råd til prosjektlederen om hvordan man kan motvirke det sterke handlingspresset i tidlig fase og balansere behovet for en klar plan med fleksibilitet.*
 
 
