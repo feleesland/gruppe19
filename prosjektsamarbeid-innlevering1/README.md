@@ -22,6 +22,7 @@
 
 4. **Proaktive mekanismer for konflikthåndtering:** *Forslag til konkrete ordninger og prosedyrer for å identifisere, drøfte og avgjøre uenigheter tidlig i prosjektet, for å unngå eskalering.*
 
+DARC000G: skriver her
 
 
 5. **Håndtering av tidspress og "planleggingsfellen":** *Råd til prosjektlederen om hvordan man kan motvirke det sterke handlingspresset i tidlig fase og balansere behovet for en klar plan med fleksibilitet.*
@@ -29,12 +30,3 @@
 
 
 6. **Sikring av god kommunikasjon:** *Råd og anbefalinger som prosjektlederen kan benytte for å sikre en god og e^ektiv kommunikasjon i teamet.*
-
-
-
-
-
-
-
-
-Oppgave 4 av DARC000G:
