@@ -10,10 +10,7 @@
 
 1. **Strategi for rekruttering og sammensetning:** *Anbefalinger for å bemanne prosjektgruppen, med vekt på å balansere behovet for mangfold (ulike teamroller som produksjon, administrasjon, integrasjon, entreprenørskap) med behovet for en viss grad av sosial og demografisk likhet for å fremme tidlig tillit. Dere må forklare hvorfor dette er viktige momenter å ta inn i planleggingen tidlig.*
 
-
-
-2. **Design av "det første møtet":** *Detaljerte forslag til agenda og aktiviteter for prosjektets oppstartsmøte. Dette skal fremme felles forståelse av mål og arbeidsfordeling, og inkludere viktigheten av "pseudo-arbeid" for relasjonsbygging.*
-
+## Design av "det første møtet
 A central part of the projects´ starting phase is to establish a mutual understanding of the goals, roles and working processes within the team. In addition, it is important to facilitate relationship building between the members, as the group consists of people with different backgrounds and professions. The very first meeting should therefore be designed with a clear agenda that makes way for information sharing, joint reflection among the members and so- called pseudo- work, meaning activities and conversations that are not directly related to the project, but which contribute to developing trust, interaction and cooperation in the group. During the first meeting, instead of talking directly about the upcoming project, is one encouraged to talk, and even brag, about former projects. These irrelevant conversations are crucial in order to build and develop their first impressions on each other, according to Jacobsen (2016). 
 
 These first meetings are important for planning, setting standards and expectations. In practice, all projects- depending on their size- should allocate time for so- called kickoff meetings. These meetings serve as a crucial arena for planning and for initiating the first clarifications of expectations between the project members. Jacobsen (2016) also pointed out the importance of the first meeting, which he meant would provide the foundation for subsequent collaboration and successful implementation. There are 3 points which are needed in order to have an effective kickoff meeting; Task orientation, team orientation, and the earlier mentioned, pseudo- work. 
