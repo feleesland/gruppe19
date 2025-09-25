@@ -10,13 +10,7 @@
 
 1. **Strategi for rekruttering og sammensetning:** *Anbefalinger for å bemanne prosjektgruppen, med vekt på å balansere behovet for mangfold (ulike teamroller som produksjon, administrasjon, integrasjon, entreprenørskap) med behovet for en viss grad av sosial og demografisk likhet for å fremme tidlig tillit. Dere må forklare hvorfor dette er viktige momenter å ta inn i planleggingen tidlig.*
 
-
-
 2. **Design av "det første møtet":** *Detaljerte forslag til agenda og aktiviteter for prosjektets oppstartsmøte. Dette skal fremme felles forståelse av mål og arbeidsfordeling, og inkludere viktigheten av "pseudo-arbeid" for relasjonsbygging.*
-
-
-
-3. **Rammer for relasjonelle kontrakter:** *Anbefalinger for utforming av kontrakter eller mandater som ikke bare fokuserer på "jerntriangelet" (tid, kostnad, kvalitet), men også på relasjonelle forhold og hvordan samarbeidet mellom prosjekteier og prosjektleder skal foregå.*
 
 ## Relasjonelle Kontrakter
 Vanligvis ville en kontrakt mellom Erling og kommunen kun innbefatte det Dag Ingvar Jacobsen i Engangsorganisasjonen henviser til som "jerntriangelet": tid, kostnad og kvalitet. Den ville inneholde detaljerte beskrivelser av tekniske og økonomiske kravene, tidsfristen på 15 måneder, arbeidsfordelinger, og håndtering av avvik fra kontrakten. Dette er kritiske elementer av en kontrakt som må avklares, men de utelater fleksibilitet og relasjonene mellom prosjektmedlemmene, Erling og kommunen. Derfor er relasjonelle kontrakter viktige for å sikre en god arbeidsstruktur og framgangsmetodikk blant prosjektmedlemmene og Erling. Relasjonelle kontrakter legger fokus på samholdet i prosjektarbeidet for å sikre tydelige kommunikasjonslinjer, konflikthåndteringsmetoder, etablere felles mål og arbeidsmetoder, og tillate større fleksibilitet for ledere som Erling. Denne typen kontrakt erstatter ikke en tradisjonell kontrakt, men blir et element av kontrakten der disse problemene konkretiseres for å minimere forvirrelser og kommunikasjonsfeil senere i prosjektet (Jacobsen, 2016, s. 43).
@@ -25,7 +19,6 @@ Dannelsen av slike kontrakter skjer tidlig i prosjektfasen, slik som tradisjonel
 
 ### Kommunikasjonsprotokoller
 Å utarbeide en kommunikasjonsprotokoll innad i prosjektet og mellom Erling og kommunen. Det vil være viktig for å sikre samhold mellom prosjektarbeiderne å konkretisere hvordan, hva, når, og hvor de skal kommunisere med hverandre for å forhindre manglende informasjon, forvirrelser og misforståelser. Erling og kommunen vil også komme til gode av å etablere tydelige rammer for kommunikasjon for å oppnå gjensidig innsikt og åpenhet om arbeidet. Eksempler på slike kommunikasjonsprotokoller vil være å avtale faste tidspunkt for møter mellom gruppen, eller å etablere en fast kanal for informasjonsutdeling mellom prosjektarbeidere selv og mellom dem og Erling. Det vil også være nyttig å etablere hvilken type informasjon som skal kommuniseres, slik som statusoppdateringer, utfordringer som oppstår, eller når arbeid fullføres. 
-
 
 ### Konflikthåndtering og eskalering
 Hvordan konflikter og uenigheter skal håndteres er et viktig og kritisk element av en gruppekontrakt. Prosjektmedlemmene må utarbeide en effektiv prosedyre for håndtering av ulike uenigheter og konflikter som oppstår i prosjektet. Dette innebærer at enkelte typer konflikter burde løses mellom medlemmene, men også at noen konflikter må eskalere til Erling og kommunen. En simpel løsning som kan implementeres er å i grunnprinsipp forsøke å løse konflikter på lavest mulig nivå. Om to medlemmer skulle være uenige burde de løse det mellom hverandre med minst mulig involvering av resten av prosjektmedarbeiderne for å unngå å eskalere problemet. Hvis en konflikt likevel må eskaleres, burde dette kun gjøres til resten av gruppen eller til Erling slik at de kan forsøke å løse konflikten sammen i prosjektet. Som en siste eskalering kan en konflikt tas opp med kommunen ettersom de har den endelige kontrollen over prosjektet.
@@ -41,7 +34,7 @@ Ved å adressere disse elementene eksplisitt i en relasjonell kontrakt kan Erlin
 
 4. **Proaktive mekanismer for konflikthåndtering:** *Forslag til konkrete ordninger og prosedyrer for å identifisere, drøfte og avgjøre uenigheter tidlig i prosjektet, for å unngå eskalering.*
 
-## Håndtering av tidspress og "planleggingsfellen
+## Håndtering av tidspress og planleggingsfellen
 
 Prosjektledere møter ofte sterkt tidspress, spesielt i de tidlige fasene av et prosjekt. Dette kan føre til stress, impulsive beslutninger og i verste fall at viktige detaljer overses, derfor er det viktig å ha en god kommunikasjon mellom alle som deltar i prosjektet, møtes fysisk, bli kjent og bygge relasjoner kan bidra til en bedre rustet gruppe, fordi da kan man bygge gruppen rundt menneskers forskjellige behov og tid til disposisjon. Da får man også en forståelse av hvordan man har et behov for noe fleksibilitet, samtidig som det er viktig men klare mål.
 Det er også veldig viktig å ikke haste seg forbi planleggingsfasen på grunn av tidspress, og følelsen av at det ikke er vits å bruke tid på.   
@@ -64,8 +57,6 @@ Det er ikke nok å bare sende informasjon vi må og høre på hva andre sier. Pr
 En siste ting er at man ikke må gi for mye informasjon på en gang. Da kan folk kjapt mista oversikten siden det blir alt for mye å tenke på. Prosjektlederen må da passe på at hver person bare får det de trenger for å gjøre jobben sin ikke mye mer. Sånn kan alle være fokuserte og bruke tiden rett.
 
 Når man tar sammen alt dette her ser man at god kommunikasjon handler ikke bare om å snakke, men også om å lage rutiner, gi trygghet og være tydelig. Om prosjektlederen velger å følge dette kommer gruppen funke bedre og sjansen for at prosjektet blir gjort og blir bra er mye større.
-
-6. **Sikring av god kommunikasjon:** *Råd og anbefalinger som prosjektlederen kan benytte for å sikre en god og e^ektiv kommunikasjon i teamet.*
 
 ## Litteraturliste
 
