@@ -39,7 +39,6 @@ Man har for å tenke at noen av disse forventningene er selvsagte, men det er fr
 
 Ved å adressere disse elementene eksplisitt i en relasjonell kontrakt kan Erling skape et bedre grunnlag for å nå målet satt av kommunen, gjennom konkrete kommunikasjonsmidler, arbeidsmetoder og struktur innad i gruppen.
 
-
 4. **Proaktive mekanismer for konflikthåndtering:** *Forslag til konkrete ordninger og prosedyrer for å identifisere, drøfte og avgjøre uenigheter tidlig i prosjektet, for å unngå eskalering.*
 
 
