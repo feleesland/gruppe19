@@ -10,12 +10,18 @@ print("Du får flere tre valg å velge mellom, som vil gi deg poeng. Noen handli
 print("\nMålet er å løse konflikten på best mulig måte, slik at begge parter blir fornøyde, eller hvor konflikten blir avgjort\n")
 print("Du vil få poeng basert på dine valg, og disse poengene vil avgjøre hvor vellykket du er som prosjekt leder.")
 
-valg = input ("Er du klar? (ja/nei): ")
-if valg.lower() != "ja":
-    print("La oss starte simulatoren. Lykke til!")
-else: valg.lower() != "nei"
-print("Testen annulert, Lykke til nestegang!\n")
-exit()
+import sys
+valg = ""
+while valg not in ["ja", "nei"]:
+    valg = input ("Er du klar? (ja / nei): ").strip().lower()
+
+    if valg == "ja":
+        print("La oss starte simulatoren. Lykke til!")
+    elif valg == "nei":
+        print("Testen annulert, Lykke til nestegang!\n")
+        sys.exit()
+    else:
+        print("Ugyldig valg, skriv 'ja' eller 'nei'.")
 
 ############################## Start konflikt 1 #####################################
 poeng = 0
@@ -73,7 +79,6 @@ print("\n ================================ Konflikt 2 ==========================
 print("\n Selv om komnflikten ble avgjort, så har det ført til en ny krangel\n")
 
 valg = input("Hvordan vil du som prosjektleder håndtere denne situasjonen? (1, 2 eller 3)")
-
 
 
 
