@@ -1,6 +1,6 @@
 # Dawid sin del av oppgaven. # 
 
-############################## Konfliktløsning intro Test ##############################
+########################################### Konfliktløsning intro Test #########################################
 print("\n=== Simulator test for nye prosjektledere TEST #1 ===\n")
 print("Velkommen til Konflikt løsning simolator!.\n")
 print("I denne simolatoren skal du løse en konflikt mellom to parter, som en prosjekt leder.")
@@ -10,6 +10,7 @@ print("Du får flere tre valg å velge mellom, som vil gi deg poeng. Noen handli
 print("\nMålet er å løse konflikten på best mulig måte, slik at begge parter blir fornøyde, eller hvor konflikten blir avgjort\n")
 print("Du vil få poeng basert på dine valg, og disse poengene vil avgjøre hvor vellykket du er som prosjekt leder.")
 
+############################## Kode for å velge mellom ja eller nei til å starte ##############################
 import sys
 valg = ""
 while valg not in ["ja", "nei"]:
@@ -23,9 +24,9 @@ while valg not in ["ja", "nei"]:
     else:
         print("Ugyldig valg, skriv 'ja' eller 'nei'.")
 
-############################## Start konflikt 1 #####################################
-poeng = 0
+################################################## Start konflikt 1 ###############################################
 import random
+poeng = 0
 
 print("\nStart av konflikten\n")
 print("To teammedlemmer, Silje og Sivert, har en konflikt om arbeidsfordelingen i prosjektet.")
@@ -73,33 +74,15 @@ elif valg == "3":
     print("\nSom prosjektleder er det viktig å balansere behovet for effektivitet med rettferdighet og teamets moral.\n")
     print("Uten deres engasjement kan underliggende problemer forbli uløste, noe som kan føre til større og/eller flere fremtidige konflikter.\n")
 
-    
-############################## Konflikt 2 #####################################
-print("\n ================================ Konflikt 2 ====================================\n")
-print("\n Selv om komnflikten ble avgjort, så har det ført til en ny krangel\n")
+
+################################################## Start konflikt 1 ###############################################
+print("\n ================================ Konflikt 2  ====================================\n")
+print(f"Poeng tall: {poeng}\n")
+
+print("\nSelv om komnflikten ble avgjort, så har det ført til en ny krangel\n")
 
 valg = input("Hvordan vil du som prosjektleder håndtere denne situasjonen? (1, 2 eller 3)")
 
-
-
-
-
-
-# Eksempel (legg dette nederst eller bruk som mal):
-#-------------------------------------------------
-# import random
-#
-# # rulletall 1..100
-# roll = random.randint(1, 100)
-#
-# # 50% sjanse: 1..50 = lykkelig, 51..100 = dårlig
-# if roll <= 50:
-#     # håndter lykkelig utfall her
-#     print(f"Eksempel: lykkelig (roll={roll})")
-#     poeng += 2  # eksempel på poengendring
-# else:
-#     # håndter dårlig utfall her
-#     print(f"Eksempel: dårlig (roll={roll})")
-#     poeng += 0
-#
-#-------------------------------------------------
+if valg == "1":
+    poeng += 3
+    print("")
