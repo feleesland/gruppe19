@@ -30,7 +30,7 @@ poeng = 0
 
 print("\nStart av konflikten\n")
 print("To teammedlemmer, Silje og Sivert, har en konflikt om arbeidsfordelingen i prosjektet.")
-print("Anna føler at hun gjør mer enn sin rettferdige andel av arbeidet, mens Bob mener at han bidrar like mye.\n")
+print("Silje føler at hun gjør mer enn sin rettferdige andel av arbeidet, mens Sivert mener at han bidrar like mye.\n")
 
 print("\n=== Hvordan vil du som prosjektleder håndtere denne situasjonen? ====\n")
 print("1. La dem diskutere konflikten seg imellom uten din inngripen.")
@@ -75,7 +75,7 @@ elif valg == "3":
     print("Uten deres engasjement kan underliggende problemer forbli uløste, noe som kan føre til større og/eller flere fremtidige konflikter.\n")
 
 
-################################################## Start konflikt 1 ###############################################
+################################################## Start konflikt 2 ###############################################
 print("\n ================================ Konflikt 2  ====================================\n")
 print(f"Poeng tall: {poeng}\n")
 
