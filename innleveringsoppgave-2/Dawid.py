@@ -1,18 +1,23 @@
 # Dawid sin del av oppgaven. # 
 
-#--------------Konfliktløsning-----------------
-print("\n=== Simulator trening for nye prosjektledere TEST #1 ===\n")
-print("Welcomen til Konflikt løsning simolator!.\n")
+############################## Konfliktløsning intro Test ##############################
+print("\n=== Simulator test for nye prosjektledere TEST #1 ===\n")
+print("Velkommen til Konflikt løsning simolator!.\n")
 print("I denne simolatoren skal du løse en konflikt mellom to parter, som en prosjekt leder.")
-print("Du får flere valge å velge mellom som vil utføre ulike handliger, noen handlinger er dårlige, neutrale eller gode.")
+print("Du får flere tre valg å velge mellom, som vil gi deg poeng. Noen handlinger er dårlige, neutrale eller gode.")
 
 
-print("\n Målet er å løse konflikten på best mulig måte, slik at begge parter blir fornøyde, eller hvor konflikten blir avgjort\n")
+print("\nMålet er å løse konflikten på best mulig måte, slik at begge parter blir fornøyde, eller hvor konflikten blir avgjort\n")
 print("Du vil få poeng basert på dine valg, og disse poengene vil avgjøre hvor vellykket du er som prosjekt leder.")
-print("Lykke til!\n")
 
+valg = input ("Er du klar? (ja/nei): ")
+if valg.lower() != "ja":
+    print("La oss starte simulatoren. Lykke til!")
+else: valg.lower() != "nei"
+print("Testen annulert, Lykke til nestegang!\n")
+exit()
 
-############################## Konflikt 1 #####################################
+############################## Start konflikt 1 #####################################
 poeng = 0
 import random
 
