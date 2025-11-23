@@ -154,10 +154,10 @@ elif valg == "4":
 ################################################## Avslutning ###############################################
 print("\n ================================ Avslutning  ====================================\n")
 print(f"\nDine totale poeng er: {poeng}\n")
-if poeng >= 8:
+if poeng >= 6:
     print("Gratulerer! Du har vist deg å være en dyktig prosjektleder som kan håndtere konflikter effektivt.")
     print("Dine valg har bidratt til å skape et positivt arbeidsmiljø og fremme samarbeid i teamet.")
-elif 5 <= poeng < 8:
+elif poeng >= 4:
     print("Du har gjort en god jobb som prosjektleder, men det er rom for forbedring.")
     print("Vurder hvordan du kan håndtere konflikter mer effektivt i fremtiden for å skape et enda bedre arbeidsmiljø.")
 else:
